@@ -1,5 +1,10 @@
 # Team Agreement
 
+- Guy Farley
+- Brady Davenport
+- Simon Son
+- Andrew Schiller
+
 ## Cooperation Plan
 
 ### Brady
